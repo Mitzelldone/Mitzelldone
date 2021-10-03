@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Don
-## ![learning](https://c.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif) ![y](https://c.tenor.com/llqR0wXWQKYAAAAC/seb-sebastian-stan.gif)
+## ![learning](https://c.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif)
 
 ### About me
 - 🔭 I’m currently working on myself.
@@ -8,7 +8,7 @@
 - 📫 How to reach me: [FB](https://www.facebook.com/Mzdone96/)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:
-## ![z](https://c.tenor.com/BFLvU0UB74AAAAAC/office-sentence.gif)
+## ![z](https://c.tenor.com/BFLvU0UB74AAAAAC/office-sentence.gif) ![y](https://c.tenor.com/llqR0wXWQKYAAAAC/seb-sebastian-stan.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitzelldone&label=Profile%20views&color=0e75b6&style=flat" alt="mitzelldone" /> </p>
 
