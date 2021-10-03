@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Don
-## ![learning](https://c.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif)  ![x](https://c.tenor.com/o-2V0N4QIcgAAAAC/the-office-michael-scott.gif) ![y](https://c.tenor.com/llqR0wXWQKYAAAAC/seb-sebastian-stan.gif)
+## ![learning](https://c.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif) ![y](https://c.tenor.com/llqR0wXWQKYAAAAC/seb-sebastian-stan.gif)
 
 ### About me
 - 🔭 I’m currently working on myself.
