@@ -7,7 +7,7 @@
 - 🤔 I’m looking for a Mentor.
 - 📫 How to reach me: [FB](https://www.facebook.com/Mzdone96/)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Introvert.
+- ⚡ Fun fact:
 ## ![z](https://c.tenor.com/BFLvU0UB74AAAAAC/office-sentence.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitzelldone&label=Profile%20views&color=0e75b6&style=flat" alt="mitzelldone" /> </p>
