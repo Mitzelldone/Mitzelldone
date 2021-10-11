@@ -5,7 +5,10 @@
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning web development.
 - 🤔 I’m looking for a Mentor.
-- 📫 How to reach me: [FB](https://www.facebook.com/Mzdone96/)
+- 📫 How to reach me: 
+  - [LinkIn](https://www.linkedin.com/in/mitzelldone-majilang-v-95ab3b21b/) 
+  - [Twitter](https://twitter.com/Donee96)
+  - [FB](https://www.facebook.com/Mzdone96/)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:
 ## ![z](https://c.tenor.com/BFLvU0UB74AAAAAC/office-sentence.gif) 
