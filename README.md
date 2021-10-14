@@ -1,5 +1,4 @@
 ### Hi there 👋, I am Don
-## ![learning](https://c.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif)
 
 ### About me
 - 🔭 I’m currently working on myself.
