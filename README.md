@@ -1,10 +1,11 @@
 ### Hi there 👋, I am Don
 
 ### About me
-- 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning web development.
-- 🤔 I’m looking for a Mentor.
-- 📫 How to reach me: 
+- 🔭 I’m currently A Self-Learning Web Developer and I started this journey on september 2021. I 
+graduated with an electronic engineering degree in 2019. I interned at a electronic company for 6 months as process engineer and discovered thats not what I want to do for the rest 30 years of my life.  Then, after graduated I decide to take Gap year to find my passion. During the Gap year many stuff happen and yeah covid. What interesting is that I become a content creator on Youtube and manage to get monitized but sadly it did not last long and burn out happen. *When a door closes another one opens*. I saw many that many opportunity that you can get when you how to code and build stuff. Therefore, here I am today.
+- 🦾 2022 I Will be looking for intership or entry level job as a frontend developer.
+- 🌱 I’m currently learning front end web development.
+- 📫 Lets connect!: 
   - [LinkIn](https://www.linkedin.com/in/mitzelldone-majilang-v-95ab3b21b/) 
   - [Twitter](https://twitter.com/Donee96)
   - [FB](https://www.facebook.com/Mzdone96/)
