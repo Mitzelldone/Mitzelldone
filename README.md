@@ -1,15 +1,14 @@
 ### Hi there 👋, I am Don
 
 ### About me
-- 🔭 I’m currently A Self-Learning Web Developer and I started this journey on september 2021. I 
-graduated with an electronic engineering degree in 2019. I interned at a electronic company for 6 months as process engineer and discovered thats not what I want to do for the rest 30 years of my life.  Then, after graduated I decide to take Gap year to find my passion. During the Gap year many stuff happen and yeah covid. What interesting is that I become a content creator on Youtube and manage to get monitized but sadly it did not last long and burn out happen. *When a door closes another one opens*. I saw many that many opportunity that you can get when you how to code and build stuff. Therefore, here I am today.
+I’m currently A Self-Learning Web Developer and I started this journey in September 2021. I graduated with an electronic engineering degree in 2019. I interned at an electronic company for 6 months as a process engineer and discovered that's not what I want to do for the rest of 30 years of my life. Engineering is hard and it will be more challenging if you don't have any passion for it. Then, after graduating I decided to take Gap year to find my passion. During the Gap year, many stuff happens, and yeah covid. What is interesting is that I become a content creator on Youtube and manage to get monetized and earn some money but sadly it did not last long and burnout happen. During that time I've become demotivated and it also causes a bad effect on my mental health for a few months. *When a door closes another one opens*. Thankfully, I saw an opportunity. An opportunity that we can get if we know how to build stuff is just my coding. Like building a website to promote our product or building an app that we can run Ads on it. It also opens up other job opportunities. Therefore, here I am today learning how to code.
+
 - 🦾 2022 I Will be looking for intership or entry level job as a frontend developer.
 - 🌱 I’m currently learning front end web development.
 - 📫 Lets connect!: 
   - [LinkIn](https://www.linkedin.com/in/mitzelldone-majilang-v-95ab3b21b/) 
   - [Twitter](https://twitter.com/Donee96)
   - [FB](https://www.facebook.com/Mzdone96/)
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact:
 ## ![z](https://c.tenor.com/BFLvU0UB74AAAAAC/office-sentence.gif) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitzelldone&label=Profile%20views&color=0e75b6&style=flat" alt="mitzelldone" /> </p>
