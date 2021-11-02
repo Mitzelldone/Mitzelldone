@@ -1,8 +1,7 @@
 ### Hi there 👋, I am Don
 
 ### About me
-I’m currently A Self-Learning Web Developer and I started this journey in September 2021. I graduated with an electronic engineering degree in 2019. I interned at an electronic company for 6 months as a process engineer and discovered that's not what I want to do for the rest of 30 years of my life. Engineering is hard and it will be more challenging if you don't have any passion for it. Then, after graduating I decided to take Gap year to find my passion. During the Gap year, many stuff happens, and yeah covid. What is interesting is that I become a content creator on Youtube and manage to get monetized and earn some money but sadly it did not last long and burnout happen. During that time I've become demotivated and it also causes a bad effect on my mental health for a few months. *When a door closes another one opens*. Thankfully, I saw an opportunity. An opportunity that we can get if we know how to build stuff just by coding. Like building a website to promote our product or building an app that we can run Ads on it and more. It also opens up other job opportunities. Therefore, here I am today learning how to code.
-
+I’m currently A Self-Learning Web Developer and I started this journey in September 2021. 
 - 🦾 2022 I Will be looking for intership or entry level job as a frontend developer.
 - 🌱 I’m currently learning front end web development.
 - 📫 Lets connect!: 
