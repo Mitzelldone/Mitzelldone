@@ -1,4 +1,4 @@
-<p align="center"><img  src="https://github.com/Mitzelldone/Mitzelldone/blob/main/assets/Gunung%20Kinabalu.gif" height="400px"></p>
+<p align="center"><img  src="https://github.com/Mitzelldone/Mitzelldone/blob/main/assets/Gunung%20Kinabalu.gif" height="350px"></p>
 
 <h1 align="center">Hi <img src="https://github.com/Mitzelldone/Mitzelldone/blob/main/assets/Hi.gif" width="37px">, I'm Mitzelldone Majilang V.Norbert</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitzelldone&label=Profile%20views&color=0e75b6&style=flat" alt="mitzelldone" /> </p>
@@ -7,6 +7,7 @@
 - 🤯 I’m currently learning **Javascript Fundamental, Data Structures and Algorithms**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
 - 👨‍🏭 **Electronic Graduate**
+
 <h1 align="center"><a href="https://www.linkedin.com/in/mitzelldone-majilang-v-95ab3b21b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
