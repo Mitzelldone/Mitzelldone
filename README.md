@@ -23,7 +23,7 @@
 [![Mitzelldone's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mitzelldone&theme=xcode)](https://github.com/Mitzelldone)
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitzelldone&theme=bear&show_icons=true&locale=en&layout=compact" alt="mitzelldone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitzelldone&theme=bear&show_icons=true&locale=en&layout=compact" alt="mitzelldone" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitzelldone&theme=bear&show_icons=true&locale=en" alt="mitzelldone" />
